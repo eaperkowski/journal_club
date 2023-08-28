@@ -5,35 +5,44 @@ No paper planned; major objective of meeting is to define semester schedule
 
 Lead: Evan
 
-# September 14, 2023
+# September 11, 2023
 Paper: Sage RF. 1994. Acclimation of photosynthesis to increasing atmospheric CO2: the gas exchange perspective. Photosynthesis Research 39: 351-368.
 
 **tentative**
 
 Lead: Evan
+15-min update: Alissar
 
-# September 28, 2023
+# September 25, 2023
+Paper: TBD
+
+Lead: Alissar
+15-min update: Evan
+
+# October 9, 2023
 Paper:
 
-Lead: 
+Lead: Monika
+15-min update: Zinny
 
-# October 12, 2023
+# October 23, 2023
 Paper:
 
-Lead: 
+Lead: Eve
+15-min update: Monika
 
-# October 26, 2023
+# November 6, 2023
 Paper:
 
-Lead: 
+Lead: Zinny
+15-min update: Isa
 
-# November 9, 2023
+# November 20, 2023
 Paper:
 
-Lead: 
-
-# November 23, 2023
-Thanksgiving Day, no meeting
+Lead: Isa
+15-min update: Eve
 
 # December 7, 2023
+15-min update: Rafael
 Last meeting of semester; journal club wrap-up and main takeaways
