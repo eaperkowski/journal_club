@@ -6,7 +6,7 @@ No paper planned; major objective of meeting is to define semester schedule
 Lead: Evan
 
 # September 11, 2023
-Paper: Grman E. 2012. Plant species differ in their ability to reduce allocation to non-beneficial arbuscular mycorrhizal fungi. Ecology 93(4): 711-718. [link to paper]{https://doi.org/10.1890/11-1358.1}
+Paper: Grman E. 2012. Plant species differ in their ability to reduce allocation to non-beneficial arbuscular mycorrhizal fungi. Ecology 93(4): 711-718. {link to paper}[https://doi.org/10.1890/11-1358.1]
 
 Lead: Evan
 15-min update: Alissar
