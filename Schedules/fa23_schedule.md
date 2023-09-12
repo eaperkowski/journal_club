@@ -12,7 +12,7 @@ Lead: Evan
 15-min update: Alissar
 
 # September 25, 2023
-Paper: TBD
+Paper: Blonder BW, LMT Aparecido, KR Hultine, D Lombardozzi, ST Michaletz, BC Posch, M Slot, K Winter. 2023. Plant water use theory should incorporate hypotheses about extreme environments, population ecology, and community ecology. New Phytologist 238(6):2271-2283. [link to paper](https://doi.org/10.1111/nph.18800)
 
 Lead: Alissar
 15-min update: Evan
