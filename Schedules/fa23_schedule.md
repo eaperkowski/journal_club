@@ -9,37 +9,31 @@ Lead: Evan
 Paper: Grman E. 2012. Plant species differ in their ability to reduce allocation to non-beneficial arbuscular mycorrhizal fungi. Ecology 93(4): 711-718. [link to paper](https://doi.org/10.1890/11-1358.1)
 
 Lead: Evan
-15-min update: Alissar
 
 # September 25, 2023
 Paper: Blonder BW, LMT Aparecido, KR Hultine, D Lombardozzi, ST Michaletz, BC Posch, M Slot, K Winter. 2023. Plant water use theory should incorporate hypotheses about extreme environments, population ecology, and community ecology. New Phytologist 238(6):2271-2283. [link to paper](https://doi.org/10.1111/nph.18800)
 
 Lead: Alissar
-15-min update: Evan
 
 # October 9, 2023
-Paper:
+Paper: Craine JM, J Froehle, DG Tilman, DA Wedin, & FS Chapin, III. 2001. The relationships among root and leaf traits of 76 grassland species and relative abundance along fertility and disturbance gradients. Oikos, 93(2), 274-285. [link to paper](https://onlinelibrary.wiley.com/doi/10.1034/j.1600-0706.2001.930210.x)
 
 Lead: Monika
-15-min update: Zinny
 
 # October 23, 2023
 Paper:
 
 Lead: Eve
-15-min update: Monika
 
 # November 6, 2023
 Paper:
 
 Lead: Zinny
-15-min update: Isa
 
 # November 20, 2023
 Paper:
 
 Lead: Isa
-15-min update: Eve
 
 # December 7, 2023
 15-min update: Rafael
