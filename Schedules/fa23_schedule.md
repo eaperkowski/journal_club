@@ -31,7 +31,7 @@ Paper:
 Lead: Zinny
 
 # November 20, 2023
-Paper:
+Paper: Yang, Y., Tilman, D., Furey, G. et al. Soil carbon sequestration accelerated by restoration of grassland biodiversity. Nat Commun 10, 718 (2019). https://doi.org/10.1038/s41467-019-08636-w
 
 Lead: Isa
 
