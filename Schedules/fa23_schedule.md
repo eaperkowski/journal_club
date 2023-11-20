@@ -33,10 +33,9 @@ Lead: Evan
 ## NOTE: journal clubs postponed to new year
 
 # TBD; January 
-Paper: Yang, Y., Tilman, D., Furey, G. et al. Soil carbon sequestration accelerated by restoration of grassland biodiversity. Nat Commun 10, 718 (2019). https://doi.org/10.1038/s41467-019-08636-w
+Paper: Yang, Y., Tilman, D., Furey, G. et al. Soil carbon sequestration accelerated by restoration of grassland biodiversity. Nat Commun 10, 718 (2019). [link to paper](https://doi.org/10.1038/s41467-019-08636-w)
 
 Lead: Isa
 
 # TBD; January
 15-min update: Rafael
-Last meeting of semester; journal club wrap-up and main takeaways
