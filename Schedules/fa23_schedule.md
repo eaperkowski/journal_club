@@ -21,14 +21,14 @@ Paper: Craine JM, J Froehle, DG Tilman, DA Wedin, & FS Chapin, III. 2001. The re
 Lead: Monika
 
 # October 23, 2023
-Paper:
+Paper: Sharkey, TD. 2019. Is triose phosphate utilization important for understanding photosynthesis? Journal of Experimental Botany 70: 5521-5525. [link to paper](https://academic.oup.com/jxb/article/70/20/5521/5589199)
 
 Lead: Eve
 
 # November 6, 2023
-Paper:
+Paper: Peng Y, IC Prentice, KJ Bloomfield, M Campioli, Z Goo, Y Sun, D Tian, X Wang, S Vicca, BD Stocker. 2023. Global terrestrial nitrogen uptake and nitrogen use efficiency. In press at Journal of Ecology. [link to paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2745.14208)
 
-Lead: Zinny
+Lead: Evan
 
 ## NOTE: journal clubs postponed to new year
 
